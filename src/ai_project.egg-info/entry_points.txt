@@ -1,0 +1,2 @@
+[console_scripts]
+ai-project = ai_project.cli:main
